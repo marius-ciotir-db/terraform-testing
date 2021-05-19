@@ -11,7 +11,7 @@ In this terraform testing guide, we will talk about most popular tools which are
 - The tool test kithen is written in Ruby.
 - The infra is being launched using terraform driver with test variables.
 - The verification is done using inspec.
-- For more detailed documentation - please check readme under kithen folder
+- For more detailed documentation - please check readme under kitchen folder
 
 ### demo_test
 
